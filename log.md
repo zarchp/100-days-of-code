@@ -1,30 +1,30 @@
-# 100 Days Of Code - Log
+# #100DaysOfCode Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day 1: Saturday April 20, 2024
+**Today's Progress**: I started by reading docs and trying new things in the laravel ecosystem like laravel v11, livewire v3, herd, volt, folio, reverb, etc.
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Thoughts:** I'm already familiar with Laravel, but I need to catch up with the latest technology because in the last 2 years there have been many updates and new packages to make it easier to create a web application.
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Link to tweet:** [ZarChp Day 1](https://twitter.com/MightyJoeW/status/827239030563696640), [ZarChp Day 1.1](https://twitter.com/ZarChp/status/1782433403176165507)
 
-**Link to work:** [Calculator App](http://www.example.com)
+### Day 2: Sunday April 21, 2024
+**Today's Progress**: Created a simple CRUD project using
+LLAT stack (Laravel, Livewire, Alpine, Tailwind) or more popularly called  TALL stack and also Mary UI
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
+**Thoughts:** Back to learning basic features such as CRUD because this is the feature that is most often used in web applications and with this I can explore the new features of Livewire v3 such as SPA (yes, PHP can now SPA like JS), validation using PHP attributes and more
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Link to work:** 
+[Mary CRUD](https://github.com/zarchp/mary-crud)
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link(s) to work**: [Calculator App](http://www.example.com)
+**Link to tweet:** [ZarChp Day 2](https://twitter.com/ZarChp/status/1782434782321987788), [ZarChp Day 2.1](https://twitter.com/ZarChp/status/1782437321486602670)
 
 
-### Day 1: June 27, Monday
+### Day 3: Monday April 21, 2024
+**Today's Progress**: Finished the simple CRUD project
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+**Thoughts:** Using livewire volt on the backend and mary UI on the frontend, this is one of the best developer experiences that i have had, livewire volt allows us to create livewire component and html in 1 file, then mary ui has many blade components that are ready to use
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Link to work:** 
+[Mary CRUD](https://github.com/zarchp/mary-crud)
 
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+**Link to tweet:** [ZarChp Day 3](https://twitter.com/ZarChp/status/1782440271659315219)
