@@ -19,7 +19,7 @@ LLAT stack (Laravel, Livewire, Alpine, Tailwind) or more popularly called  TALL 
 **Link to tweet:** [ZarChp Day 2](https://twitter.com/ZarChp/status/1782434782321987788), [ZarChp Day 2.1](https://twitter.com/ZarChp/status/1782437321486602670)
 
 
-### Day 3: Monday April 21, 2024
+### Day 3: Monday April 22, 2024
 **Today's Progress**: Finished the simple CRUD project
 
 **Thoughts:** Using livewire volt on the backend and mary UI on the frontend, this is one of the best developer experiences that i have had, livewire volt allows us to create livewire component and html in 1 file, then mary ui has many blade components that are ready to use
@@ -28,3 +28,13 @@ LLAT stack (Laravel, Livewire, Alpine, Tailwind) or more popularly called  TALL 
 [Mary CRUD](https://github.com/zarchp/mary-crud)
 
 **Link to tweet:** [ZarChp Day 3](https://twitter.com/ZarChp/status/1782440271659315219)
+
+### Day 4: Tuesday April 23, 2024
+**Today's Progress**: Learned laravel folio which simplifies laravel routes based on folder structure and I also added login and logout functions
+
+**Thoughts:** Using laravel folio + livewire volt simplifies things a lot
+
+**Link to work:** 
+[Mary CRUD](https://github.com/zarchp/mary-crud)
+
+**Link to tweet:** [ZarChp Day 4](https://twitter.com/ZarChp/status/1782805518568096004)
