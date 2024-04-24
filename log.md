@@ -38,3 +38,13 @@ LLAT stack (Laravel, Livewire, Alpine, Tailwind) or more popularly called  TALL 
 [Mary CRUD](https://github.com/zarchp/mary-crud)
 
 **Link to tweet:** [ZarChp Day 4](https://twitter.com/ZarChp/status/1782805518568096004)
+
+### Day 5: Wednesday April 24, 2024
+**Today's Progress**: Learned Alpine.JS and created a pomodoro timer.
+
+**Thoughts:** It really highlighted why people are prefer AlpineJS over jQuery, because it's simplicity, reactivity and ease of use.
+
+**Link to work:** 
+[Todoro](https://github.com/zarchp/todoro)
+
+**Link to tweet:** [ZarChp Day 5](https://twitter.com/ZarChp/status/1783159638676165100)
