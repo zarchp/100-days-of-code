@@ -66,7 +66,7 @@ LLAT stack (Laravel, Livewire, Alpine, Tailwind) or more popularly called  TALL 
 **Link to work:** 
 [Todoro](https://github.com/zarchp/todoro)
 
-**Link to tweet:** [ZarChp Day 6](https://twitter.com/ZarChp/status/1783858500877402349), [x-sort bug](https://twitter.com/ZarChp/status/1783861220552200231)
+**Link to tweet:** [ZarChp Day 6-7](https://twitter.com/ZarChp/status/1783858500877402349), [x-sort bug](https://twitter.com/ZarChp/status/1783861220552200231)
 
 ---
 ### Day 7: Friday April 26, 2024
@@ -77,6 +77,6 @@ LLAT stack (Laravel, Livewire, Alpine, Tailwind) or more popularly called  TALL 
 **Link to work:** 
 [Todoro](https://github.com/zarchp/todoro)
 
-**Link to tweet:** [ZarChp Day 6](https://twitter.com/ZarChp/status/1783858500877402349)
+**Link to tweet:** [ZarChp Day 6-7](https://twitter.com/ZarChp/status/1783858500877402349)
 
 ---
