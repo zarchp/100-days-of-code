@@ -7,6 +7,8 @@
 
 **Link to tweet:** [ZarChp Day 1](https://twitter.com/MightyJoeW/status/827239030563696640), [ZarChp Day 1.1](https://twitter.com/ZarChp/status/1782433403176165507)
 
+---
+
 ### Day 2: Sunday April 21, 2024
 **Today's Progress**: Created a simple CRUD project using
 LLAT stack (Laravel, Livewire, Alpine, Tailwind) or more popularly called  TALL stack and also Mary UI
@@ -18,6 +20,7 @@ LLAT stack (Laravel, Livewire, Alpine, Tailwind) or more popularly called  TALL 
 
 **Link to tweet:** [ZarChp Day 2](https://twitter.com/ZarChp/status/1782434782321987788), [ZarChp Day 2.1](https://twitter.com/ZarChp/status/1782437321486602670)
 
+---
 
 ### Day 3: Monday April 22, 2024
 **Today's Progress**: Finished the simple CRUD project
@@ -29,6 +32,8 @@ LLAT stack (Laravel, Livewire, Alpine, Tailwind) or more popularly called  TALL 
 
 **Link to tweet:** [ZarChp Day 3](https://twitter.com/ZarChp/status/1782440271659315219)
 
+---
+
 ### Day 4: Tuesday April 23, 2024
 **Today's Progress**: Learned laravel folio which simplifies laravel routes based on folder structure and I also added login and logout functions
 
@@ -39,6 +44,8 @@ LLAT stack (Laravel, Livewire, Alpine, Tailwind) or more popularly called  TALL 
 
 **Link to tweet:** [ZarChp Day 4](https://twitter.com/ZarChp/status/1782805518568096004)
 
+---
+
 ### Day 5: Wednesday April 24, 2024
 **Today's Progress**: Learned Alpine.JS and created a pomodoro timer.
 
@@ -48,3 +55,17 @@ LLAT stack (Laravel, Livewire, Alpine, Tailwind) or more popularly called  TALL 
 [Todoro](https://github.com/zarchp/todoro)
 
 **Link to tweet:** [ZarChp Day 5](https://twitter.com/ZarChp/status/1783159638676165100)
+
+---
+
+### Day 6: Thursday April 25, 2024
+**Today's Progress**: Added to-do list with x-sort plugin.
+
+**Thoughts:** AlpineJS has a $persist feature to save data to localStorage, then x-sort plugin for sorting feature and these two features are very easy to implement. But i found a bug when sorting third item to first, check tweet below.
+
+**Link to work:** 
+[Todoro](https://github.com/zarchp/todoro)
+
+**Link to tweet:** [ZarChp Day 6](https://twitter.com/ZarChp/status/1783858500877402349), [x-sort bug](https://twitter.com/ZarChp/status/1783861220552200231)
+
+---
