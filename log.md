@@ -69,6 +69,7 @@ LLAT stack (Laravel, Livewire, Alpine, Tailwind) or more popularly called  TALL 
 **Link to tweet:** [ZarChp Day 6-7](https://twitter.com/ZarChp/status/1783858500877402349), [x-sort bug](https://twitter.com/ZarChp/status/1783861220552200231)
 
 ---
+
 ### Day 7: Friday April 26, 2024
 **Today's Progress**: Added settings to customize timer durations, set pomodoro interval and enable auto start timer.
 
@@ -78,5 +79,17 @@ LLAT stack (Laravel, Livewire, Alpine, Tailwind) or more popularly called  TALL 
 [Todoro](https://github.com/zarchp/todoro)
 
 **Link to tweet:** [ZarChp Day 6-7](https://twitter.com/ZarChp/status/1783858500877402349)
+
+---
+
+### Day 8: Saturday April 27, 2024
+**Today's Progress**: Created tic-tac-toe with scoreboard using #AlpineJS.
+
+**Thoughts:** A simple game like tic-tac-toe turns out to be quite difficult to implement, next step I want to implement bot AI
+
+**Link to work:** 
+[Todoro](https://github.com/zarchp/todoro)
+
+**Link to tweet:** [ZarChp Day 8](https://twitter.com/ZarChp/status/1784978210574483779)
 
 ---
