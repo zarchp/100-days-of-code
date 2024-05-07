@@ -88,8 +88,84 @@ LLAT stack (Laravel, Livewire, Alpine, Tailwind) or more popularly called  TALL 
 **Thoughts:** A simple game like tic-tac-toe turns out to be quite difficult to implement, next step I want to implement bot AI
 
 **Link to work:** 
-[Todoro](https://github.com/zarchp/todoro)
+[Tic-Tac-Toe](https://github.com/zarchp/tictactoe)
 
 **Link to tweet:** [ZarChp Day 8](https://twitter.com/ZarChp/status/1784978210574483779)
+
+---
+
+### Day 9: Sunday April 28, 2024
+**Today's Progress**: Implemented playing against bot using random algorithm.
+
+**Thoughts:** I'm still having trouble using JS syntax, after countless googling I finally managed to solve it.
+
+**Link to work:** 
+[Tic-Tac-Toe](https://github.com/zarchp/tictactoe)
+
+**Link to tweet:** [ZarChp Day 9](https://x.com/ZarChp/status/1785117648126455983)
+
+---
+
+### Skip 2 days due to sick
+
+---
+
+### Day 10: Wednesday May 01, 2024
+**Today's Progress**: Added medium and hard difficulty using minimax algorithm
+
+**Thoughts:** This is the first time I've learned the minimax algorithm, there are still bugs in bot moves because I don't really understand it yet.
+
+**Link to work:** 
+[Tic-Tac-Toe](https://github.com/zarchp/tictactoe)
+
+**Link to tweet:** [ZarChp Day 10](https://x.com/ZarChp/status/1785976879411048699)
+
+---
+
+### Day 11: Thursday May 02, 2024
+**Today's Progress**: Started creating 1 of my favorites games, **2048**
+
+**Thoughts:** I've made it before but it was a long time ago, so I want to try making it again with my current knowledge
+
+**Link to work:** 
+[2048](https://github.com/zarchp/2048)
+
+**Link to tweet:** [ZarChp Day 11](https://x.com/ZarChp/status/1786444848129814545)
+
+---
+
+### Day 12: Friday May 03, 2024
+**Today's Progress**: Added several features but still stuck on adding sliding animation
+
+**Thoughts:** I've tried several solutions but it turns out that making a sliding animation is not as easy as it seems
+
+**Link to work:** 
+[2048](https://github.com/zarchp/2048)
+
+**Link to tweet:** [ZarChp Day 12](https://x.com/ZarChp/status/1786790248539914446)
+
+---
+
+### Day 13: Saturday May 04, 2024
+**Today's Progress**: Still stuck on adding sliding animation :(
+
+**Thoughts:** Still stuck and decided to rewrite from scratch
+
+**Link to work:** 
+[2048](https://github.com/zarchp/2048)
+
+**Link to tweet:** [ZarChp Day 13](https://x.com/ZarChp/status/1787736702280470808)
+
+---
+
+### Day 14: Sunday May 05, 2024
+**Today's Progress**: Finished 2048, finally got to see the sliding animation in action 
+
+**Thoughts:** After trying the 100th solution, it was finally finished
+
+**Link to work:** 
+[2048](https://github.com/zarchp/2048)
+
+**Link to tweet:** [ZarChp Day 13](https://x.com/ZarChp/status/1787736702280470808)
 
 ---
